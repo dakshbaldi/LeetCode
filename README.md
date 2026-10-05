@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/dakshbaldi/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbaldi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |

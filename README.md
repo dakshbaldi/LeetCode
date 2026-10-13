@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbaldi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dakshbaldi/LeetCode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dakshbaldi/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

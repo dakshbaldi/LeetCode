@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshbaldi/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
+| [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
+| [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dakshbaldi/LeetCode/tree/master/0344-reverse-string) |
+| [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |

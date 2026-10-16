@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/dakshbaldi/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshbaldi/LeetCode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dakshbaldi/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dakshbaldi/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

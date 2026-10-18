@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/dakshbaldi/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/dakshbaldi/LeetCode/tree/master/0896-monotonic-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshbaldi/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -161,8 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshbaldi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshbaldi/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

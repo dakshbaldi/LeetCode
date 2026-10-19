@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/dakshbaldi/LeetCode/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search

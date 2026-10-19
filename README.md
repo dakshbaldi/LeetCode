@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshbaldi/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dakshbaldi/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbaldi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dakshbaldi/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dakshbaldi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |

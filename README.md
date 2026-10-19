@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/dakshbaldi/LeetCode/tree/master/0509-fibonacci-number) |
+| [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
 | [2235-add-two-integers](https://github.com/dakshbaldi/LeetCode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/dakshbaldi/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/dakshbaldi/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |

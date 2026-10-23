@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/dakshbaldi/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0860-lemonade-change](https://github.com/dakshbaldi/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/dakshbaldi/LeetCode/tree/master/0896-monotonic-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dakshbaldi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/dakshbaldi/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshbaldi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/dakshbaldi/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |

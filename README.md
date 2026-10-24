@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dakshbaldi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
+| [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dakshbaldi/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/dakshbaldi/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/dakshbaldi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/dakshbaldi/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dakshbaldi/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
+| [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbaldi/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/dakshbaldi/LeetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/dakshbaldi/LeetCode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 ## Union-Find
 |  |
 | ------- |

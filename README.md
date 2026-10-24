@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dakshbaldi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dakshbaldi/LeetCode/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dakshbaldi/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2235-add-two-integers](https://github.com/dakshbaldi/LeetCode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dakshbaldi/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/dakshbaldi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/dakshbaldi/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/dakshbaldi/LeetCode/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dakshbaldi/LeetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/dakshbaldi/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -286,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/0014-longest-common-prefix) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbaldi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/dakshbaldi/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dakshbaldi/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/dakshbaldi/LeetCode/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/dakshbaldi/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dakshbaldi/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/dakshbaldi/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/dakshbaldi/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dakshbaldi/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dakshbaldi/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dakshbaldi/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/dakshbaldi/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |

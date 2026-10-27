@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dakshbaldi/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/dakshbaldi/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshbaldi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/dakshbaldi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1002-find-common-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbaldi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dakshbaldi/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/dakshbaldi/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/dakshbaldi/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
+| [1002-find-common-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1002-find-common-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dakshbaldi/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbaldi/LeetCode/tree/master/1768-merge-strings-alternately) |

@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/dakshbaldi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/dakshbaldi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/dakshbaldi/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dakshbaldi/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshbaldi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/dakshbaldi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |

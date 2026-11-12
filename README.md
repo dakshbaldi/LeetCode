@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/dakshbaldi/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshbaldi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dakshbaldi/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshbaldi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |

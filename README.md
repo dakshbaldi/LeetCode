@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/dakshbaldi/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshbaldi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshbaldi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dakshbaldi/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dakshbaldi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1002-find-common-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/dakshbaldi/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dakshbaldi/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/dakshbaldi/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/dakshbaldi/LeetCode/tree/master/0389-find-the-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dakshbaldi/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |

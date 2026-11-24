@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshbaldi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dakshbaldi/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dakshbaldi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dakshbaldi/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0090-subsets-ii) |
@@ -332,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dakshbaldi/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dakshbaldi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/dakshbaldi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dakshbaldi/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/dakshbaldi/LeetCode/tree/master/0867-transpose-matrix) |

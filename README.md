@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/dakshbaldi/LeetCode/tree/master/0791-custom-sort-string) |
 | [0942-di-string-match](https://github.com/dakshbaldi/LeetCode/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/dakshbaldi/LeetCode/tree/master/1002-find-common-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/dakshbaldi/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/dakshbaldi/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbaldi/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbaldi/LeetCode/tree/master/1768-merge-strings-alternately) |

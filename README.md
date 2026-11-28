@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dakshbaldi/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbaldi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dakshbaldi/LeetCode/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dakshbaldi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dakshbaldi/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dakshbaldi/LeetCode/tree/master/0053-maximum-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dakshbaldi/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dakshbaldi/LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakshbaldi/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dakshbaldi/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dakshbaldi/LeetCode/tree/master/0169-majority-element) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/dakshbaldi/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/dakshbaldi/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/dakshbaldi/LeetCode/tree/master/0216-combination-sum-iii) |
